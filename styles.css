@@ -1,0 +1,12 @@
+#header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+img {
+  width: 66px;
+  height: 65px;
+  object-fit: cover;
+  object-position: 50% -1px;
+}
